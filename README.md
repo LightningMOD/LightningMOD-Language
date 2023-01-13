@@ -1,0 +1,2 @@
+# LightningMOD-Language
+LightningMOD Languages
